@@ -41,7 +41,7 @@ ___
 
 <details>
   <summary>Level 1</summary>
-  <img src="https://raw.githubusercontent.com/Sglossu/NetPractice/img/1.png" alt="level1"></img>
+  <img src="https://github.com/Sglossu/NetPractice/blob/main/img/1.png?raw=true" alt="level1"></img>
 </details>
 
 <details>
