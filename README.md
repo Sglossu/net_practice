@@ -46,45 +46,45 @@ ___
 
 <details>
   <summary>Level 2</summary>
-  <img src="https://raw.githubusercontent.com/Sglossu/NetPractice/img/2.png" alt="level2"></img>
+  <img src="https://github.com/Sglossu/NetPractice/blob/main/img/2.png?raw=true" alt="level2"></img>
 </details>
 
 <details>
   <summary>Level 3</summary>
-  <img src="https://raw.githubusercontent.com/Sglossu/NetPractice/img/3.png" alt="level3"></img>
+  <img src="https://github.com/Sglossu/NetPractice/blob/main/img/3.png?raw=true" alt="level3"></img>
 </details>
 
 <details>
   <summary>Level 4</summary>
-  <img src="https://raw.githubusercontent.com/Sglossu/NetPractice/img/4.png" alt="level4"></img>
+  <img src="https://github.com/Sglossu/NetPractice/blob/main/img/4.png?raw=true" alt="level4"></img>
 </details>
 
 <details>
   <summary>Level 5</summary>
-  <img src="https://raw.githubusercontent.com/Sglossu/NetPractice/img/5.png" alt="level5"></img>
+  <img src="https://github.com/Sglossu/NetPractice/blob/main/img/5.png?raw=true" alt="level5"></img>
 </details>
 
 <details>
   <summary>Level 6</summary>
-  <img src="https://raw.githubusercontent.com/Sglossu/NetPractice/img/6.png" alt="level6"></img>
+  <img src="https://github.com/Sglossu/NetPractice/blob/main/img/6.png?raw=true" alt="level6"></img>
 </details>
 
 <details>
   <summary>Level 7</summary>
-  <img src="https://raw.githubusercontent.com/Sglossu/NetPractice/img/7.png" alt="level7"></img>
+  <img src="https://github.com/Sglossu/NetPractice/blob/main/img/7.png?raw=true" alt="level7"></img>
 </details>
 
 <details>
   <summary>Level 8</summary>
-  <img src="https://raw.githubusercontent.com/Sglossu/NetPractice/img/8.png" alt="level8"></img>
+  <img src="https://github.com/Sglossu/NetPractice/blob/main/img/8.png?raw=true" alt="level8"></img>
 </details>
 
 <details>
   <summary>Level 9</summary>
-  <img src="https://raw.githubusercontent.com/Sglossu/NetPractice/img/9.png" alt="level9"></img>
+  <img src="https://github.com/Sglossu/NetPractice/blob/main/img/9.png?raw=true" alt="level9"></img>
 </details>
 
 <details>
   <summary>Level 10</summary>
-  <img src="https://raw.githubusercontent.com/Sglossu/NetPractice/img/10.png"></img>
+  <img src="https://github.com/Sglossu/NetPractice/blob/main/img/10.png?raw=true"></img>
 </details>
