@@ -76,12 +76,12 @@ ___
 
 <details>
   <summary>Level 8</summary>
-  <img src="https://github.com/Sglossu/NetPractice/blob/main/img/8.png?raw=true" alt="level8"></img>
+  <img src="https://github.com/Sglossu/NetPractice/blob/main/img/8.jpg?raw=true" alt="level8"></img>
 </details>
 
 <details>
   <summary>Level 9</summary>
-  <img src="https://github.com/Sglossu/NetPractice/blob/main/img/9.png?raw=true" alt="level9"></img>
+  <img src="https://github.com/Sglossu/NetPractice/blob/main/img/9.jpg?raw=true" alt="level9"></img>
 </details>
 
 <details>
